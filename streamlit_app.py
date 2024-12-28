@@ -18,7 +18,7 @@ def set_page_config() -> None:
             margin-right: 10px !important;
         }
 
-        [role=radiogroup] {
+        [role=radiogroup], code {
             direction: ltr;
             text-align: left;
         }
