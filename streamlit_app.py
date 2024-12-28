@@ -93,15 +93,9 @@ with st.sidebar:
     )
     st.divider()
 
-    st.caption(body="توسعه دهنده: داریوش تصدیقی")
-
     contact = """
 <p style="direction: ltr; text-align: left;">
     Version: 1.5
-    <br>
-    📞: +98-912-108-7461
-    <br>
-    📧: DariushT@Gmail.com
     <br>
     🌐: <a href='https://www.yaasie.com'>https://www.yaasie.com</a>
     <br>
